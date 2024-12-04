@@ -1,0 +1,2 @@
+# MotoareTermiceAlternative
+Soluții alternative
